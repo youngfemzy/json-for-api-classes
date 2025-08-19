@@ -4,4 +4,12 @@
     { "id": 2, "name": "WeCodr", "location": "Abuja" }
   ],
   "profile": { "owner": "Oluwafemi" }
+},
+
+{
+  "companies": [
+    { "id": 1, "name": "CoolFM Designs", "location": "Lagos" },
+    { "id": 2, "name": "WeCodr", "location": "Abuja" }
+  ],
+  "profile": { "owner": "Oluwafemi" }
 }
