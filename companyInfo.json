@@ -1,0 +1,34 @@
+[
+  {
+    "name": "spent academ",
+    "noOfEmployee": 20,
+    "ceo": null,
+    "staff": ["femi", "taye"],
+    "usersAndRating": [
+      {
+        "name": "spent academ",
+        "rating": 5.0
+      },
+      {
+        "name": "tomi",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "name": "paucha",
+    "noOfEmployee": 20,
+    "ceo": null,
+    "staff": ["femi", "taye"],
+    "usersAndRating": [
+      {
+        "name": "spent academ",
+        "rating": 5.0
+      },
+      {
+        "name": "tomi",
+        "rating": 5.0
+      }
+    ]
+  }
+]
